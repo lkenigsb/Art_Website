@@ -1,0 +1,25 @@
+
+img {
+    border-radius: 8px;
+    width: 100%;
+    padding-bottom: 20px;
+    position: center;
+}
+
+table {
+    padding-bottom: 20px;
+    width: 100%;
+    height: 200px;
+}
+
+td {
+    width: 50px;
+    text-align: center;
+    padding-right: 50px;
+    padding-left: 50px;
+    border-right: 2px solid lightpink;
+}
+
+td:last-of-type {
+    border-right: none;
+}

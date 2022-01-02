@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
+
+td {
+    border: 2px solid lightpink;
+    border-collapse: collapse;
+}
+
+p {
+    background: black;
+    color: lightpink;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    display: inline-block;
+}
