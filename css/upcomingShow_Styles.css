@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+p {
+    background-image: url("/Images/home_background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    color: lightpink;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 100%;
+    display: inline-block;
+    font-size: 20px;
+}
+
+h1 {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    background-size: 100%;
+    color: lightpink;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 100%;
+    display: inline-block;
+    font-size: 20px;
+}
+
+#clockdiv {
+    text-align: center;
+    color: lightpink;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    font-size: 60px;
+}
+
+h5, a {
+    text-align: center;
+    color: lightpink;
+    font-size: medium;
+    padding-bottom: 100px;
+}
