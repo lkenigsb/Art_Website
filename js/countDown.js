@@ -1,4 +1,4 @@
-const showDate = 'November 4, 2022 20:00:00';
+const showDate = 'November 4, 2023 20:00:00';
 
 function getTimeRemaining(endTime){
     const total = Date.parse(endTime) - Date.parse(new Date());
